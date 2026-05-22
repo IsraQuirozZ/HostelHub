@@ -133,8 +133,8 @@ HostelHub integrates multiple third-party services for enhanced functionality:
 
 ### **Database**
 
-- **MongoDB Atlas** — Cloud NoSQL database
-- **Mongoose** — ODM for schemas & models
+- **PostgreSQL** — database
+- **Prisma** — ODM for schemas & models
 
 ### **External Integrations**
 
