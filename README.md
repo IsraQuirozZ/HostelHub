@@ -18,7 +18,7 @@
 
 ## 🧠 **Overview**
 
-**HostelHub** is a web/mobile application designed to **connect travelers** and enhance their experience by combining **hostel bookings, social interaction, and a personal experience feed**. The platform allows users to search and book hostels, view locations on maps, and explore posts from other travelers such as including photos, place descriptions, and ratings.
+**HostelHub** is a mobile application designed to **connect travelers** and enhance their experience by combining **hostel bookings, social interaction, and a personal experience feed**. The platform allows users to search and book hostels, view locations on maps, and explore posts from other travelers such as including photos, place descriptions, and ratings.
 
 Users can voluntarily share their stay at hostels, creating a **community environment**, and participate in group experiences or organized activities. The main innovation of the project lies in integrating a **social feed within a booking platform**, where users can post travel recommendations and receive additional information through automated systems, such as AI, without overloading content creators.
 
