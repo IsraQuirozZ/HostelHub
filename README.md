@@ -113,13 +113,9 @@ HostelHub integrates multiple third-party services for enhanced functionality:
 
 ### **Frontend**
 
-- **React** — Component-based UI
-- **CSS Modules** — Type safety & clean architecture
-- **Vite** — Fast bundling & dev server
-- **TailwindCSS** — Utility-first styling
-- **React Router** — Client-side routing
-- **React Query (TanStack Query)** — API state management
-- **Framer Motion** _(optional)_ — Animations
+- **React Native** — Component-based UI
+- **Expo**
+- **Expo Router**
 
 ### **Backend**
 
